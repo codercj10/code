@@ -1,4 +1,4 @@
 # code
-this is a repository created by codercj10
+this is a Repository created by codercj10
 <br>
-welcome to the code repository
+welcome to the code Repository
